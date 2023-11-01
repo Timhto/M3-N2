@@ -1,0 +1,6 @@
+SELECT TOP (1000) [ID]
+      ,[NomeUsuario]
+      ,[Senha]
+      ,[NomeCompleto]
+      ,[Email]
+  FROM [master].[dbo].[Usuarios]
